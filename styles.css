@@ -1,0 +1,29 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 1.25em;
+  line-height: 1.6;
+}
+h1, h2 {
+  text-align: center;
+}
+.info p {
+  margin: 0.3125em 0;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25em 0;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.5em;
+}
+th {
+  background-color: red;
+  color: white;
+  text-align: left;
+}
+td strong {
+  font-weight: bold;
+}
